@@ -41,7 +41,7 @@ libraries:
 - name: pycrypto
   version: latest
 
-- name: jinja2
+- name: jnjglass99
   version: latest
 
 - name: PIL
